@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        // int has a width of 32
+        // int has a width of 32  -> 4 bytes
         int myMinValue = -2_147_483_648;
         int myMaxValue = 2_147_483_647;
         int myNewIntValue = (myMinValue/2);
